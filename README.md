@@ -1,2 +1,2 @@
-# CIFAR10_TRAINING
-СIFAR10_TRAINING 
+# Practice
+
